@@ -129,11 +129,9 @@ To create the installer to send to clients or use on another PC:
 
 ---
 
-## 👤 Author
+### Author
 
 **In Renck**
-
-- Developed as a Web -> Desktop migration project.
 
 ---
 
